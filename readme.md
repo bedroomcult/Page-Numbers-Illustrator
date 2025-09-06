@@ -5,6 +5,9 @@ It provides flexible options for formatting, placement, and numbering style.
 
 Thanks for CarlosCanto (https://community.adobe.com/t5/illustrator-discussions/introducing-insert-page-numbers-v-2/td-p/4185670). I am able to modify it to simplifies my personal needs.
 
+Preview:
+![Preview](https://github.com/bedroomcult/Page-Numbers-Illustrator/blob/main/screenshot/preview.png "GUI Preview")
+
 ## ✨ Features
 - This script will create a new modifiable new layer.
 - Select a range of artboards (start & end).
