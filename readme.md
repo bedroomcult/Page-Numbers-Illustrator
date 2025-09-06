@@ -5,7 +5,6 @@ It provides flexible options for formatting, placement, and numbering style.
 
 Thanks for CarlosCanto (https://community.adobe.com/t5/illustrator-discussions/introducing-insert-page-numbers-v-2/td-p/4185670). I am able to modify it to simplifies my personal needs.
 
-Preview:
 ![Preview](https://github.com/bedroomcult/Page-Numbers-Illustrator/blob/main/screenshot/preview.png "GUI Preview")
 
 ## ✨ Features
@@ -48,10 +47,3 @@ Preview:
 - Page numbers are placed in a dedicated layer: **Page Numbers**.
 - If **Overwrite existing** is enabled, all previous numbers in that layer will be removed.
 - Supports both print and digital layouts.
-
-## 📝 License
-MIT License. Free to use and modify.
-
----
-
-💡 Contributions welcome! Feel free to fork, open issues, or submit PRs.
